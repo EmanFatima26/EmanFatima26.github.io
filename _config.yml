@@ -1,10 +1,17 @@
-title: Eman's Engineering Blog
+title: ✨ Eman's Engineering Blog ✨
 email: feman4768@gmail.com
-description: Personal blog about Computer Engineering and programming.
-url: "https://EmanFatima26.github.io"
+description: >- 
+  A space for my Computer Engineering journey & programming fundamentals. 🎀
+
+# URL Settings
+url: "https://EmanFtima26.github.io" 
 baseurl: ""
 
-# Using a standard GitHub Pages theme
-remote_theme: pages-themes/minimal@v0.2.0
+# Aesthetic Theme
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-remote-theme
+
+# This allows us to use custom colors
+sass:
+  style: :compressed
