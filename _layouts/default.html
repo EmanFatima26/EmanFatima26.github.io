@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <link rel="stylesheet" href="https://cloudflare.com">
+    <style>
+        body { padding: 20px; max-width: 800px; margin: auto; }
+        nav a { margin-right: 15px; font-weight: bold; text-decoration: none; }
+        .footer { margin-top: 50px; font-size: 0.8em; color: gray; border-top: 1px solid #eee; padding-top: 20px; }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>{{ site.title }}</h1>
+        <nav>
+            <a href="/">Home</a>
+            <a href="/about.html">About Me</a>
+            <a href="/contact.html">Contact</a>
+        </nav>
+    </header>
+    <hr>
+
+    <main>
+        {{ content }}
+    </main>
+
+    <footer class="footer">
+        <p>&copy; 2024 {{ site.title }} | Built for Programming Fundamentals</p>
+    </footer>
+
+</body>
+</html>
