@@ -12,7 +12,14 @@ title: Home
 [🏠 Home](/) &nbsp; [📖 About Me](/about) &nbsp; [🎓 CE Journey](/ce-journey) &nbsp; [💌 Contact](/contact) &nbsp; [✍️ New Post](https://github.com)
 {: .nav-buttons}
 ---
+### 🚀 My CE Experience
+I am currently a Computer Engineering student building my foundation in hardware and software.
 
+*   **💻 Technical Skills:** C++, Python, Circuit Design.
+*   **🛠️ Current Projects:** Working on [github] using [jykull].
+*   **📚 Education:** Currently in [Computer Engineering] at [UET FSD campus].
+
+[View my full CE Journey →](/ce-journey)
 ### ✨ My Recent Posts
 <ul>
   {% for post in site.posts %}
