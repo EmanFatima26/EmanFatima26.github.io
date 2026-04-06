@@ -11,7 +11,10 @@ title: Home
 ### 🎀 Quick Links
 [🏠 Home](/) &nbsp; [📖 About Me](/about) &nbsp; [💌 Contact](/contact) &nbsp; [✍️ New Post](https://github.com)
 {: .nav-buttons}
-
+<!-- Add this next to your existing 'About Me' or 'Contact' buttons -->
+<a href="{{ site.baseurl }}/CE-journey" class="btn">
+  <span class="icon">🎓</span> CE Journey
+</a>
 ---
 
 ### ✨ My Recent Posts
