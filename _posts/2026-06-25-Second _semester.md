@@ -38,8 +38,6 @@ The very next day was our Database Project Exhibition. We bunked our regular lec
 
 Our project centered around a highly critical predictive model: it analyzed crime data to predict whether a criminal would be arrested or not. Under Dr. Bilal's guidance, we split our international dataset using a strict **80% training and 20% testing split** to evaluate our machine learning model’s accuracy effectively. 
 
-![Our Project :](Image.png)
-
 During the exhibition, seniors and faculty swarmed our tables, firing intense technical questions about our backend routing and model parameters. Ultimately, Dr. Bilal announced that our final evaluation would depend on a professionally recorded project video. 
 
 ### Final Exams & Final Reflections: Thank You, Dr. Bilal
