@@ -13,9 +13,9 @@ title: About Me
     </p>
     
     <p>
-      If there was an award for being the <strong>most talkative girl</strong> in a single day, I would 
-      win it every time! 🏆 I love sharing ideas, telling stories, and connecting with people. 
-      Whether it's a complex coding problem or the latest gossip, I always have something to say! 💅✨
+      If there was an award for being the <strong>most sleepy  girl</strong> in a single day, I would 
+      win it every time! 🏆 I love sharing ideas, telling stories, and connecting with people but also sleeping.
+      Whether it's a complex coding problem or the latest gossip, I always have something to say bcz i am talkative also ! ✨
     </p>
   </div>
 
@@ -23,17 +23,17 @@ title: About Me
     <h3>🌟 The Family Prodigy</h3>
     <p>
       In my family, I’m known as the <strong>brilliant student</strong>. I take immense pride in 
-      balancing my social, talkative side with <strong>top-tier academic performance</strong>. 
+      balancing my social, cultural side with <strong>top-tier academic performance</strong>. 
       Being the "smart one" isn't just about grades; it's about my curiosity to learn how the 
       world works through engineering! 💻📚
     </p>
   </div>
 
   <div class="interests-grid">
-    <div class="interest-item">🌸 <strong>Talkative & Bold</strong></div>
-    <div class="interest-item">🧠 <strong>Engineering Mind</strong></div>
+    <div class="interest-item">🌸 <strong>Talkative & covered</strong></div>
+    <div class="interest-item">🧠 <strong>Maths Topper</strong></div>
     <div class="interest-item">🎀 <strong>Aesthetic Soul</strong></div>
-    <div class="interest-item">🏠 <strong>Family Pride</strong></div>
+    <div class="interest-item">🏠 <strong>Family Person</strong></div>
   </div>
 
   <div style="text-align: center; margin-top: 30px;">
