@@ -34,7 +34,14 @@ As the final weeks approached, quizzes, lab vivas, and project deadlines hit us 
 
 After two days of relentless manual labor, I ended up assembling the entire project on Sunday. It wasn't working perfectly, and the exhibition was the next morning! We pulled another all-night grind, and by sunrise, it was at least functioning better than a dead circuit. The DLD exhibition went smoothly, but the battle wasn't over.
 
-The very next day was our Database Project Exhibition. We bunked our regular lectures, locked ourselves away to write the project reports, and re-verified our dataset’s GUI. During the exhibition, seniors and faculty swarmed our tables, firing questions. Ultimately, Dr. Bilal announced that our final evaluation would depend on a professionally recorded project video. 
+The very next day was our Database Project Exhibition. We bunked our regular lectures, locked ourselves away to write the project reports, and re-verified our dataset’s GUI. For this project, we built a highly interactive Graphical User Interface (GUI) from scratch using **HTML, CSS, and JavaScript**, making it visually sharp and responsive. To bring the application to life, we used **FastAPI** as our backend framework to seamlessly connect our front-end interface with our MySQL database and the machine learning model.
+
+Our project centered around a highly critical predictive model: it analyzed crime data to predict whether a criminal would be arrested or not. Under Dr. Bilal's guidance, we split our international dataset using a strict **80% training and 20% testing split** to evaluate our machine learning model’s accuracy effectively. 
+
+![Our Project GUI Screenshot]()
+*(Note: Replace 'your-uploaded-image-name.png' with your actual uploaded image name to display your project picture here!)*
+
+During the exhibition, seniors and faculty swarmed our tables, firing intense technical questions about our backend routing and model parameters. Ultimately, Dr. Bilal announced that our final evaluation would depend on a professionally recorded project video. 
 
 ### Final Exams & Final Reflections: Thank You, Dr. Bilal
 
@@ -42,7 +49,4 @@ Our final exam routine was a hectic sprint—papers back-to-back without a singl
 
 Looking back at this intense second semester, I realize how much Dr. Bilal invested in us. He dedicated his time, energy, and unmatched knowledge to make us capable students. I often look at his LinkedIn profile for inspiration; his personal journey is a massive motivating factor for me. Everything I have learned about real-life problem solving, database architecture, and machine learning would have been impossible without him. I am profoundly thankful to him. 
 
-The second semester ended with a massive gain in knowledge and a folder full of overcome challenges. I truly hope we get the honor of being taught by Dr. Bilal again in our upcoming semesters bcz he is AI,MLand DL model training expert he mostly prefers us to select datbases related to health section which benefits whole world a lot . you can learn more about him through his linkedin or facbook profile 
-https://WWW.linkedin.com/in/drbilalphd/
-https://WWW.facebook.com/Dr.BilalAhm
-i will update you with my next journey soon.. 
+The second semester ended with a massive gain in knowledge and a folder full of overcome challenges. I truly hope we get the honor of being taught by Dr. Bilal again in our upcoming semesters. Onward and upward!
