@@ -5,7 +5,7 @@ title: Home
 
 <div style="text-align: center;">
   <h1 style="font-size: 2.5em;">✨ Welcome to My Blog! ✨</h1>
-  <p style="font-size: 1.2em;">My name is **Eman Fatima** and I am a Computer Engineering student sharing my journey. 🌸</p>
+  <p style="font-size: 1.2em;">My name is Eman Fatima and I am a Computer Engineering student sharing my journey. 🌸</p>
 </div>
 
 ### 🎀 Quick Links
@@ -15,8 +15,8 @@ title: Home
 ### 🚀 My CE Experience
 I am currently a Computer Engineering student building my foundation in hardware and software.
 
-*   **💻 Technical Skills:** C#, Python, Circuit Design.
-*   **🛠️ Current Projects:** Working on [github] using [jykull].
+*   **💻 Technical Skills:** C#, Python, Circuit Design,database designing,GUI...
+*   **🛠️ Current Projects:** Working on [github] using [jykull] AND  on ML 
 *   **📚 Education:** Currently in [Computer Engineering] at [UET FSD campus].
 
 ### ✨ My Recent Posts
