@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Second Semester Chronicles: Challenges, Triumphs, and the Impact of a Great Mentor"
+title: "Second Semester "
 date: 2026-06-25
 ---
 
