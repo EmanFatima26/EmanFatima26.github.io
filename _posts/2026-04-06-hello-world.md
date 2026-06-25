@@ -1,7 +1,7 @@
 ---
 layout: post
-title: CE journey
-date: 2026-04-06
+title: starting struggle 
+date: 2025-11-06
 ---
 
 This is my very first blog post on GitHub Pages!
