@@ -48,4 +48,7 @@ Our final exam routine was a hectic sprint—papers back-to-back without a singl
 
 Looking back at this intense second semester, I realize how much Dr. Bilal invested in us. He dedicated his time, energy, and unmatched knowledge to make us capable students. I often look at his LinkedIn profile for inspiration; his personal journey is a massive motivating factor for me. Everything I have learned about real-life problem solving, database architecture, and machine learning would have been impossible without him. I am profoundly thankful to him. 
 
-The second semester ended with a massive gain in knowledge and a folder full of overcome challenges. I truly hope we get the honor of being taught by Dr. Bilal again in our upcoming semesters. Onward and upward!
+The second semester ended with a massive gain in knowledge and a folder full of overcome challenges. I truly hope we get the honor of being taught by Dr. Bilal again in our upcoming semesters bcz he is AI,MLand DL model training expert he mostly prefers us to select datbases related to health section which benefits whole world a lot . you can learn more about him through his linkedin or facbook profile 
+https://WWW.linkedin.com/in/drbilalphd/
+https://WWW.facebook.com/Dr.BilalAhm
+i will update you with my next journey soon.
