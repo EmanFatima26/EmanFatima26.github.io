@@ -46,9 +46,5 @@ When we stepped into the presentation room, the nervous energy among the student
 
 Just like that, amidst an endless cycle of infinite loops, debugging syntax errors, printing mishaps, intense evaluations, and sleepless hostel nights, my first semester flew by in a flash. Looking back, the transformation was staggering: I went from an anxious pre-med student who didn't even know how to initialize a virtual environment to a student capable of training a predictive Machine Learning model. 
 
-This massive leap forward would have been completely impossible without the infinite patience, deep wisdom, and constant encouragement of **`Dr. Bilal`**. He didn't just teach us code; he taught us how to survive challenges, think critically, and look at problems through an analytical lens. I am profoundly grateful for his guidance, which turned a terrifying academic transition into an unforgettable, successful foundational semester of my computing degree.
-
----
-
-### Key Takeaway Tags:
+This massive leap forward would have been completely impossible without the infinite patience, deep wisdom, and constant encouragement of **`Dr. Bilal`**. He didn't just teach us code; he taught us how to survive challenges, think critically, and look at problems through an analytical lens. I am profoundly grateful for his guidance, which turned a terrifying academic transition into an unforgettable, successful foundational semester of my computing degree
 #DrBilalAhmad #MentorshipMatters #ProgrammingFundamentals #PythonProgramming #MachineLearning #PreMedToTech #UniversityLife #DatabaseSystems #CodingJourney #WomenInTech
