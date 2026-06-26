@@ -27,7 +27,7 @@ Put your pictures here.
 
 <br><br>
 
-<img src="/beginning2.jpg" width="700">
+<img src="/WhatsApp Image 2026-06-26 at 1.36.59 AM.jpeg" width="700">
 ```
 
 ---
